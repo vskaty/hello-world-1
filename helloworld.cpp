@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-  cout << "I LOVE MICHIGAN";
+  cout << "I Love Michigan";
   
   return 0;
  }
